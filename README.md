@@ -1,5 +1,9 @@
+DATE:21-09-2024;
+EXPNO: 01;
+NAME : R RAIHAAN AHMED;
+REF NO: 24010543
+
 #  Mean and variance of a discrete  distribution
-date:21\09\2024
 
 # Aim : 
 
